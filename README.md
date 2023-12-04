@@ -7,9 +7,9 @@ A-OK :)
 Just copy and paste this to your bot's description:
 
 This code was created by Tongand
-and it's used in the bot "Tonga Bot".
+Tongand's twitter: https://twitter.com/Tongand_
 
-Site: WORK IN PROGRESS
+Site: [Tonga Bot Site](https://sites.google.com/view/tonga-bot/home)
 
 # Donate
 This bot is 100% free so if you don't mind plz donate in the link below:
@@ -18,6 +18,5 @@ https://streamlabs.com/sl_id_ce789a1b-fea8-30b0-a902-9b3be775c269
 # Updates
 Ill try to release the updates
 but since the bot is open source it shouldn't be a problem
-
 
 Enjoy!
