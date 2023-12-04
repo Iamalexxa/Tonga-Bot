@@ -131,4 +131,4 @@ async def random_meme(ctx):
 
 
 bot.run(
-    'MTE4MDUxMDQyNzA5Mjg4NTUyNA.G6exmn.fjZIjpRszQPq7CN76H-EMOTuN5VRX83I8ex3Po')
+    'TOKEN_BOT_HERE')
